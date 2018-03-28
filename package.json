@@ -19,8 +19,9 @@
   "homepage": "https://github.com/Nbrente/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^5.0.1",
-    "keys.js": "^1.0.2",
+    "inquirer": "^5.2.0",
     "node-spotify-api": "^1.0.7",
+    "omdb-api-pt": "^2.0.1",
     "twitter": "^1.7.1"
   }
 }
